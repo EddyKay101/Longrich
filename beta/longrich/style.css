@@ -1,0 +1,37 @@
+body,td,th {
+	font-size: 14px;
+	line-height:1.5em;
+}
+a:link {
+	color: #0033FF;
+}
+a:visited {
+	color: #03f;
+}
+a:hover {
+	color: #000;
+}
+a:active {
+	color: #03f;
+}
+#pageHeader
+{
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:900px;
+}
+#pageContent
+{
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:900px;
+}
+#pageFooter
+{
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:900px;
+}
